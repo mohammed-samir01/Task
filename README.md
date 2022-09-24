@@ -44,5 +44,3 @@ php artisan serve
 ```
 
 You can now access the server at http://localhost:8000
-
-## Thanks Accura Team for this opportunity to work on this task.
